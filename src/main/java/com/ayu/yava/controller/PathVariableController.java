@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ayu.yava.demos.web;
+package com.ayu.yava.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;

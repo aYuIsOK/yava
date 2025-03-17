@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ayu.yava.demos.web;
+package com.ayu.yava.domain;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>

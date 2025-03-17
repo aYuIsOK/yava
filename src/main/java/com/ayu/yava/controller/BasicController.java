@@ -14,13 +14,15 @@
  * limitations under the License.
  */
 
-package com.ayu.yava.demos.web;
+package com.ayu.yava.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
+
+import com.ayu.yava.domain.User;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
